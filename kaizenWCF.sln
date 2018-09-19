@@ -1,0 +1,66 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "kaizenWCF", "kaizenWCF\", "{E5786114-6605-4429-A30E-022E798D920D}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_59552"
+		Debug.AspNetCompiler.PhysicalPath = "kaizenWCF\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_59552\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_59552"
+		Release.AspNetCompiler.PhysicalPath = "kaizenWCF\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_59552\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "59552"
+		SlnRelativePath = "kaizenWCF\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "kaizenSite", "kaizenSite\", "{42818316-CAD1-4128-BA6A-B47EC48BBDAC}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_53615"
+		Debug.AspNetCompiler.PhysicalPath = "kaizenSite\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53615\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_53615"
+		Release.AspNetCompiler.PhysicalPath = "kaizenSite\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53615\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "53615"
+		SlnRelativePath = "kaizenSite\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5786114-6605-4429-A30E-022E798D920D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5786114-6605-4429-A30E-022E798D920D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42818316-CAD1-4128-BA6A-B47EC48BBDAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42818316-CAD1-4128-BA6A-B47EC48BBDAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C7353AF-2313-44E6-90B2-537DA18C8280}
+	EndGlobalSection
+EndGlobal
